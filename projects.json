@@ -170,6 +170,15 @@
             "featured": false,
             "url": "https://ja.sperdeboer.nl/island",
             "twitter": "@jasperdeboer"
+        },
+        {
+            "name": "DontCo",
+            "description": "Build web apps & SaaS products as a non-technical founder",
+            "category": "Web Apps",
+            "toolsUsed": "Cursor",
+            "featured": false,
+            "url": "https://www.dontco.de",
+            "twitter": "@bentossell"
         }
         
     ]
