@@ -40,10 +40,19 @@
             "name": "Space Defenders",
             "description": "Space-themed browser game built with AI",
             "category": "Game",
-            "toolsUsed": "AI Tools",
+            "toolsUsed": "",
             "featured": false,
             "url": "https://jasonleow.com/space-defenders",
             "twitter": "@jasonleowsg"
+        },
+        {
+            "name": "Duke Nukem 3D 2025",
+            "description": "A 3D shoot game",
+            "category": "Jobs",
+            "toolsUsed": "Grok, Claude",
+            "featured": false,
+            "url": "https://duke.jobboardsearch.com",
+            "twitter": "@rrmdp"
         },
         {
             "name": "Match My Energy",
@@ -171,5 +180,6 @@
             "url": "https://ja.sperdeboer.nl/island",
             "twitter": "@jasperdeboer"
         }
+        
     ]
 } 
