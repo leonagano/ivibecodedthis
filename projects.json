@@ -28,15 +28,6 @@
             "twitter": "@Shpigford"
         },
         {
-            "name": "Owlendar",
-            "description": "Blog posts on autopilot - keyword research, planner, writer, scheduler",
-            "category": "Productivity",
-            "toolsUsed": "Cursor",
-            "featured": false,
-            "url": "https://owlendar.com",
-            "twitter": "@leonagano"
-        },
-        {
             "name": "Space Defenders",
             "description": "Space-themed browser game built with AI",
             "category": "Game",
