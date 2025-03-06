@@ -1,0 +1,175 @@
+{
+    "projects": [
+        {
+            "name": "IVibeCodedThis",
+            "description": "Directory of vibe coded projects",
+            "category": "Directory",
+            "toolsUsed": "Cursor",
+            "featured": true,
+            "url": "https://ivibecodedthis.com",
+            "twitter": "@leonagano"
+        },
+        {
+            "name": "Fly",
+            "description": "A fun free-to-play MMO flight sim",
+            "category": "Game",
+            "toolsUsed": "Cursor",
+            "featured": false,
+            "url": "https://fly.pieter.com",
+            "twitter": "@levelsio"
+        },
+        {
+            "name": "Society Fail",
+            "description": "Open source survival game where you test if you can survive the apocalypse",
+            "category": "Game",
+            "toolsUsed": "AI Tools",
+            "featured": false,
+            "url": "https://society.fail",
+            "twitter": "@Shpigford"
+        },
+        {
+            "name": "Owlendar",
+            "description": "Blog posts on autopilot - keyword research, planner, writer, scheduler",
+            "category": "Productivity",
+            "toolsUsed": "Cursor",
+            "featured": false,
+            "url": "https://owlendar.com",
+            "twitter": "@leonagano"
+        },
+        {
+            "name": "Space Defenders",
+            "description": "Space-themed browser game built with AI",
+            "category": "Game",
+            "toolsUsed": "AI Tools",
+            "featured": false,
+            "url": "https://jasonleow.com/space-defenders",
+            "twitter": "@jasonleowsg"
+        },
+        {
+            "name": "Match My Energy",
+            "description": "Energy matching platform for connections",
+            "category": "Social",
+            "toolsUsed": "AI Tools",
+            "featured": false,
+            "url": "https://matchmy.energy",
+            "twitter": "@AshAmplifies"
+        },
+        {
+            "name": "Link2Link",
+            "description": "Smart link management platform",
+            "category": "Productivity",
+            "toolsUsed": "Bolt",
+            "featured": false,
+            "url": "https://link2l.ink",
+            "twitter": "@randomshenans"
+        },
+        {
+            "name": "TurboQR",
+            "description": "Fast QR code generator with AI features",
+            "category": "Tool",
+            "toolsUsed": "AI Tools",
+            "featured": false,
+            "url": "https://turboqr.co",
+            "twitter": "@gdangel0"
+        },
+        {
+            "name": "Bomberman",
+            "description": "Modern remake of the classic Bomberman game",
+            "category": "Game",
+            "toolsUsed": "AI Tools",
+            "featured": false,
+            "url": "https://bomberman-bice.vercel.app",
+            "twitter": "@tuantruong"
+        },
+        {
+            "name": "Dogfight Arena",
+            "description": "Aerial combat game built with AI assistance",
+            "category": "Game",
+            "toolsUsed": "Cursor",
+            "featured": false,
+            "url": "https://nicolas-zullo.com/dogfight-arena",
+            "twitter": "@NicolasZu"
+        },
+        {
+            "name": "Bobibo",
+            "description": "AI-powered mobile application",
+            "category": "Mobile App",
+            "toolsUsed": "AI Tools",
+            "featured": false,
+            "url": "https://www.bobiboapp.com",
+            "twitter": "@ericlamideas"
+        },
+        {
+            "name": "Time Awareness",
+            "description": "Time visualization and productivity app",
+            "category": "Productivity",
+            "toolsUsed": "AI Tools",
+            "featured": false,
+            "url": "https://apps.apple.com/br/app/time-awareness-visualizations/id6742592534",
+            "twitter": "@coolnalu"
+        },
+        {
+            "name": "Maker Cards",
+            "description": "Digital cards platform for makers",
+            "category": "Tool",
+            "toolsUsed": "Cursor",
+            "featured": false,
+            "url": "https://maker.cards",
+            "twitter": "@adithyashreshti"
+        },
+        {
+            "name": "Nutshell",
+            "description": "AI-powered productivity application",
+            "category": "Productivity",
+            "toolsUsed": "AI Tools",
+            "featured": false,
+            "url": "https://nutshell.app",
+            "twitter": "@Zee"
+        },
+        {
+            "name": "Shipposting",
+            "description": "Social platform for shipping enthusiasts",
+            "category": "Social",
+            "toolsUsed": "AI Tools",
+            "featured": false,
+            "url": "http://app.shipposting.com",
+            "twitter": "@usiriczman"
+        },
+        {
+            "name": "FinBud AI",
+            "description": "AI-powered financial budgeting assistant",
+            "category": "Finance",
+            "toolsUsed": "Cursor",
+            "featured": false,
+            "url": "https://finbud.ai",
+            "twitter": "@glaksmono"
+        },
+        {
+            "name": "MoAI Jobs",
+            "description": "AI-focused job board and career platform",
+            "category": "Jobs",
+            "toolsUsed": "Windsurf",
+            "featured": false,
+            "url": "https://MoAIJobs.com",
+            "twitter": "@NithurM"
+        },
+        {
+            "name": "AI Built Games",
+            "description": "Collection of AI-assisted game development",
+            "category": "Games",
+            "toolsUsed": "AI Tools",
+            "featured": false,
+            "url": "https://aibuiltgames.com",
+            "twitter": "@rrmdp"
+        },
+        {
+            "name": "Island",
+            "description": "Interactive island exploration experience",
+            "category": "Game",
+            "toolsUsed": "AI Tools",
+            "featured": false,
+            "url": "https://ja.sperdeboer.nl/island",
+            "twitter": "@jasperdeboer"
+        }
+    ]
+} 
